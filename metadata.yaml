@@ -1,0 +1,27 @@
+_repo: The-Zen-Experience_34325
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoover, Thomas
+    birthdate: 1941
+    gutenberg_agent_id: '36955'
+    url: http://www.gutenberg.org/2009/agents/36955
+description: ''
+gutenberg_issued: '2010-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34325'
+  lccn: '79024119'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Zen Buddhism -- History'
+- !lcc 'BQ'
+- !lcsh 'Zen priests -- Biography'
+title: The Zen Experience
+url: http://www.gutenberg.org/ebooks/34325
